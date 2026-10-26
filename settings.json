@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "FREDDYGOAT",
+    "username": "SLEXYGOAT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "thelegions.aternos.me",
-    "port": 62129,
+    "ip": "the-legions07.mcsh.gg",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
